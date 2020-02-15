@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581352610411.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A9511102",
+    "lastKnownWriteTime" : 5,
+    "last_content_update" : 1581352610411,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "715E922",
+        "caption" : "corpus",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=corpus&cache_key=715E922",
+        "displayedObservations" : "662",
+        "environment" : "",
+        "expression" : "corpus",
+        "object" : "corpus",
+        "preview" : "0",
+        "totalObservations" : "662",
+        "variables" : "10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
